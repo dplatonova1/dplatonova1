@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria Platonova</h1>
 <h3 align="center">A frontend developer from St.Petersburg, Russia</h3>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, Redux and Typescript**
 
 - 👨‍💻 All of my projects are available here, at my Github [https://github.com/dplatonova1](https://github.com/dplatonova1)
 
