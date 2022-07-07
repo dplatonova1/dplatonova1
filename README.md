@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daria Platonova</h1>
 <h3 align="center">A frontend developer from St.Petersburg, Russia</h3>
+<h3 align="center">Current location: Belgrade, Serbia</h3>
 
 - 🌱 I’m currently learning **React, Redux and Typescript**
 
